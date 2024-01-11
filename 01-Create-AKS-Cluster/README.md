@@ -121,7 +121,7 @@ kubectl get all --all-namespaces
 brew update && brew install azure-cli
 
 # Login to Azure
-az login
+az login    // dont hit this cmd
 
 # Install Azure AKS CLI
 az aks install-cli
